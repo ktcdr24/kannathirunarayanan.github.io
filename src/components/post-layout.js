@@ -1,7 +1,6 @@
 import * as React from "react"
 import { Link } from "gatsby"
 import * as postStyles from "../post.module.css"
-import "gatsby-prismjs-dracula"
 import Seo from "../components/seo"
 
 const PostLayout = ({
