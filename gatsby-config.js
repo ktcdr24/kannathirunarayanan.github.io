@@ -1,34 +1,21 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Serial Programmer`,
+    title: `Confessions of a bored programmer`,
     author: {
-      name: `Sharad Raj`,
-      bio: `<p>
-              Developed by Sharad Raj who lives in India building useful things for the world.
-            </p>
-            <p>
-              You should follow him on <a href="https://github.com/sharadcodes">Github</a>
-            </p>
-            `,
-      dp: "https://avatars2.githubusercontent.com/u/36638057?s=460&u=0cbe4fd6b5a3655d91b3eb86db834d0829a0c086&v=4",
+      name: `Kanna`,
+      bio: ``,
+      dp: "/icons/avatar.jpeg",
       social: {
         github: {
           title: "github",
-          username: `sharadcodes`,
+          username: `ktcdr24`,
           url: `https://github.com/`,
         },
         linkedin: {
           title: "linkedin",
-          username: `srsmaurya`,
+          username: `kanap008`,
           url: `https://linkedin.com/in/`,
         },
-        twitter: {
-          title: "twitter",
-          username: `iamsharadraj`,
-          url: `https://twitter.com/`,
-        },
-        dev: { title: "dev", username: `sharadcodes`, url: `https://dev.to/` },
-        email: { title: "email", username: `me@example.com`, url: `mailto:` },
       },
     },
     description: `A gatsby theme for serial programmers (-.-)`,

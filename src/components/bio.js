@@ -12,22 +12,7 @@ const Bio = () => {
             dp
             bio
             social {
-              twitter {
-                title
-                url
-                username
-              }
               github {
-                title
-                url
-                username
-              }
-              dev {
-                title
-                url
-                username
-              }
-              email {
                 title
                 url
                 username
