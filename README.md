@@ -1,29 +1,13 @@
-<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<p align="center">
-  <a href="https://www.gatsbyjs.com">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby Theme Serial Programmer
-</h1>
 
-> A Gatsby theme for serial programmers (-.-)
+## Overview
+This is a respository for a personal blog built using Gatsby SSO. This site is hosted using GitHub pages. 
 
-[Live Demo Vercel](https://gatsby-theme-serial-programmer.vercel.app/)
+Use `master` branch for pushing the code. Use `gh-pages` branch for pushing the built artiacts for the static site. 
 
-[Live Demo Gatbsy Cloud](https://gatsbythemeserialprogrammer.gatsbyjs.io/)
+For local development, run `npm run develop`. For deploying the changes run `npm run deploy`. 
 
-# Screenshots
+This gatsby website uses [Gatsby Theme Serial Programmer theme](https://github.com/sharadcodes/gatsby-theme-serial-programmer).
 
-## BLOG PAGE
-
-![Blog page](https://raw.githubusercontent.com/sharadcodes/gatsby-theme-serial-programmer/main/screenshots/blog.png)
-
-## POST EXAMPLE
-
-![Post page](https://raw.githubusercontent.com/sharadcodes/gatsby-theme-serial-programmer/main/screenshots/post.png)
-
-## TAG PAGE
-
-![Tag page](https://raw.githubusercontent.com/sharadcodes/gatsby-theme-serial-programmer/main/screenshots/tag.png)
+## References 
+* Gatsby reference - https://www.gatsbyjs.com/docs
+* Tutorial for local development - https://www.gatsbyjs.com/docs/how-to/local-development/
